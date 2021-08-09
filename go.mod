@@ -3,6 +3,7 @@ module github.com/free5gc/logger_util
 go 1.14
 
 require (
+	github.com/asaskevich/govalidator v0.0.0-20200907205600-7a23bdc65eef
 	github.com/gin-gonic/gin v1.7.0
 	github.com/golang/protobuf v1.4.3 // indirect
 	github.com/json-iterator/go v1.1.10 // indirect
